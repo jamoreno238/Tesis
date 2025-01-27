@@ -1,0 +1,7 @@
+.tabsContainer {
+    position: sticky;
+    top: 0;
+    background-color: white; /* Ajusta el color de fondo según tu diseño */
+    z-index: 1000; /* Ajusta este valor según sea necesario */
+  }
+

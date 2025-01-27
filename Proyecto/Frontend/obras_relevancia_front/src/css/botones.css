@@ -1,0 +1,26 @@
+.cancelButton {
+  color: white !important; /* Cambia el color del texto según tu diseño */
+  background-color: red !important; /* Color de fondo rojo */
+  &:hover {
+    background-color: darkred !important; /* Color de fondo rojo oscuro al pasar el ratón */
+  }
+}
+
+.enviarButton {
+  color: white !important; /* Cambia el color del texto según tu diseño */
+  background-color: #457666 !important; /* Color de fondo rojo */
+  &:hover {
+    background-color: #345d50 !important; /* Color de fondo rojo oscuro al pasar el ratón */
+  }
+}
+
+.cambiarUsuarioButton {
+  color: #345d50 !important; /* Cambia el color del texto según tu diseño */
+  background-color: white !important; /* Color de fondo blanco */
+}
+
+.visualizar {
+  color: #345d50 !important; /* Cambia el color del texto según tu diseño */
+  background-color: white !important; /* Color de fondo blanco */
+
+}
